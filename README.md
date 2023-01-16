@@ -1,6 +1,6 @@
 # İnstagram Takipci Cekme Php
 
-Projeyi kullanabilmek için Açık olan hesabınızdan aşağıdaki verielri alıp gerekli yerlere yerleştirmeniz gerekmektedir.
+Projeyi kullanabilmek için Açık olan hesabınızdan aşağıdaki verileri alıp gerekli yerlere yerleştirmeniz gerekmektedir.
 #
 - $max_id = "";
 - $frienid = "";
